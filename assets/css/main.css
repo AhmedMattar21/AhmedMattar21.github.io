@@ -8,14 +8,14 @@ body{
 }
 
 h1{
-    font-size: 120px;
+    font-size: 4vw;
     text-align: center;
 }
 
 h2{
     color: skyblue;
     font-size: 60px;
-    padding: 10px;
+    padding: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
     background-color: rgba(0, 0, 0, 0.178);
